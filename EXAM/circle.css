@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+
+h1{
+    color: saddlebrown;
+    font-size: 50px;
+}
+
+
+input.in1{
+    width: 80%;
+    height: 200px;
+    font-size: 100px;
+    display: block;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    color: sienna;
+}
+
+input.in2{
+    width: 80%;
+    height: 200px;
+    font-size: 100px;
+    display: block;
+    margin: 0 auto;
+    background: linear-gradient(to bottom, red, black);
+    color: rosybrown;
+}
